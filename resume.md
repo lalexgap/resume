@@ -2,7 +2,7 @@
 
 [me@alexgap.ca](mailto:me@alexgap.ca)
 
-[https://github.com/lalexgap](https://github.com/lalexgap)
+[www.alexgap.ca](www.alexgap.ca)
 
 Squamish, BC, Canada (UTC -7)
 
