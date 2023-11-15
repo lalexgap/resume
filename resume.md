@@ -9,7 +9,7 @@ Squamish, BC, Canada (UTC -7)
 ## Skills
 
 - **Languages**: golang, typescript, solidity, C#, SQL queries
-- **Tools**: git, hardhat/anvil, react.js, postgres, docker
+- **Tools**: git, ethers.js, hardhat/anvil, react.js, postgres, docker
 
 ## Experience
 
