@@ -4,7 +4,7 @@
 
 [www.alexgap.ca](https://www.alexgap.ca)
 
-Squamish, BC, Canada (UTC -7)
+Squamish, BC, Canada (UTC -8)
 
 ## Skills
 
