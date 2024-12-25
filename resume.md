@@ -8,14 +8,20 @@ Squamish, BC, Canada (UTC -8)
 
 ## Skills
 
-- **Languages**: golang, typescript, solidity, C#, SQL queries
-- **Tools**: git, ethers.js, hardhat/anvil, react.js, postgres, docker
+- **Languages**: golang, typescript, ruby, solidity, C#, SQL
 
 ## Experience
 
+### Senior Software Engineer - Product Hunt
+
+_Jan 2024 - Present (remotely from Squamish)_
+
+- Helped design and implement new features for Product Hunt.
+- Worked with ruby on rails,typescript, tailwind,React and Postgres.
+
 ### Senior Software Developer - ConsenSys Mesh
 
-_Oct 2019 - Present (remotely from Vancouver/Squamish)_
+_Oct 2019 - Dec 2023 (remotely from Vancouver/Squamish)_
 
 - Continued to work on the state channels protocol, taking it from a proof of concept to an actual usable framework.
 - Designed and implemented various aspects of the framework; first using typescript then using golang.
