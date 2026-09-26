@@ -9,6 +9,7 @@ Squamish, BC, Canada (UTC -8)
 ## Skills
 
 - **Languages**: golang, typescript, ruby, solidity, C#, SQL
+- **AI/LLM**: MCP server design, LLM tool design & guardrails, agentic development (Claude Code, Codex, multi-agent workflows)
 
 ## Experience
 
@@ -16,8 +17,9 @@ Squamish, BC, Canada (UTC -8)
 
 _Jan 2024 - Present (remotely from Squamish)_
 
-- Helped design and implement new features for Product Hunt.
-- Worked with ruby on rails,typescript, tailwind,React and Postgres.
+- Grew Product Hunt's internal MCP server (Cloudflare Workers) into a core team tool, giving AI assistants safe access to production analytics (Postgres/Redshift), ad operations, and shareable reports, with human confirmation and audit trails on every write.
+- Adopted an agent-first workflow, orchestrating parallel coding agents (Claude Code, Codex) to ship features as reviewed PRs, backed by repo-level agent instructions and skills.
+- Worked with Ruby on Rails, TypeScript, Tailwind, React and Postgres.
 
 ### Senior Software Developer - ConsenSys Mesh
 
